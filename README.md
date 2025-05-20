@@ -1,4 +1,4 @@
-## Ejemplo de comunicación entre microservicios usando Apache Kafka
+## Comunicación entre microservicios usando Apache Kafka
 
 Este proyecto en realidad son 2 proyectos independientes entre si, uno es un productor y el otro un consumidor kafka.
 
